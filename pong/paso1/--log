@@ -1,2 +1,4 @@
 loop		EQU 08005H
-nextscan	EQU 0800EH
+loop_up		EQU 08011H
+nextscan	EQU 08019H
+previous_scan	EQU 08028H
