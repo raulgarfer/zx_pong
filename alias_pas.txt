@@ -1,0 +1,1 @@
+ alias pas='pasmo --name holamundo --tapbas main.asm main.tap --log'
